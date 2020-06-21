@@ -1,9 +1,6 @@
 ---
-
-title: "YOUR-TITLE"
-	
-date: YYYY-MM-DD
-	
+title: "Machine Learning"
+date: 2020-06-21
 ---
 
 ## Preface 
